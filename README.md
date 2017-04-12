@@ -11,4 +11,4 @@ How I created my viz, accessed API, etc. Took Zach’s weekly tutorials as refer
 - [3D Visualization](folder/3d.md)
 - [3D Printing](folder/print.md)
 - [Upload Blog](folder/blog.md)
-- [Make Tutorial](folder/intent.md)
+- [Make Tutorial](folder/tutorial.md)
