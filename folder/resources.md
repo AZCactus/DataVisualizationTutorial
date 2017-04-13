@@ -5,8 +5,9 @@ Here are some places to start looking. From our experiences, though, the more pe
 
 Data Search Engines and General Directories
 
--https://www.data.gov
--http://publicdata.eu
+https://www.data.gov
+
+http://publicdata.eu
 http://www.data.go.jp/?lang=english
 http://www.zanran.com/q/
 https://www.reddit.com/r/datasets/
