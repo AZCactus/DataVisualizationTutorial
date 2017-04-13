@@ -13,10 +13,5 @@
 - http://www.creaKveapplicaKons.net
 - http://www.datavisualizaKon.ch
 
-**Tools**
-- http://code.google.com/p/google-refine/
-- http://d3js.org
-- http://grasshopper3d.com
-- http://bl.ocks.org/mbostock
-- http://tumult.com
-- http://maxwellrender.com
+### MY SKETCH
+
