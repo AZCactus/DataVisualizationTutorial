@@ -17,7 +17,7 @@
 
 - [Simon Heijdens: Shade London](http://www.simonheijdens.com/index.php?type=project&name=Shade%20London)
 - [Simon Heijdens: Boijmans van Beuningen Museum](http://www.simonheijdens.com/index.php?type=project&name=Boijmans%20van%20Beuningen%20Museum)
-- [Timo Arnall: Satellite Lamps](http://www.elasHcspace.com/2014/08/satellite-lamps)
+- [Timo Arnall: Satellite Lamps](http://www.elasticspace.com/2014/08/satellite-lamps)
 - [Troika UK: Cloud](http://troika.uk.com/project/cloud/)
 - [Studio Roosegaarde: Waterlicht](https://www.studioroosegaarde.net/project/waterlicht/)
 - [Mischer Traxler: the idea of a tree – recorder one](https://www.mischertraxler.com/projects_the_idea_of_a_tree_recorder_one.html)
