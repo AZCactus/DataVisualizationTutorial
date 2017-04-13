@@ -1,4 +1,4 @@
-## Upload Blog
+## Website and Blog
 
 We will build a website to hold our data visualization and update blogs. We will learn how to set up the web server first and then learn about basics of HTML, CSS and responsive design to build our website. Then we will learn how to use prismic.io to manage our content then we can update our blogs easily without changing HTML and CSS codes.
 
