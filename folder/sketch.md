@@ -4,7 +4,7 @@
 
 - http://www.dear-data.com
 - http://www.informationisbeautiful.net
-- http://www.datapointed.com
+- http://www.datapointed.net/
 - http://www.visualnews.com
 - http://nytlabs.com
 - http://flowingdata.com
