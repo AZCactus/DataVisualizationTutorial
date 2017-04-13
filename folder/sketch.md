@@ -15,6 +15,12 @@ Quantitative
 - Ratio: Numbers can be compared as multiples of one another. Parts of a whole, proportion, parametric.
 - Interval: Individual, sequential numerical ranges. Scale with fixed and defined interval.
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 **Inspiration and Precedent**
 
 - http://www.dear-data.com
