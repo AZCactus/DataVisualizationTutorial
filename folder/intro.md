@@ -12,5 +12,6 @@ The requirements for the datasets are:
 
 **Updated/refreshed at intervals**: the information is updated periodically to show change over time in that location. The refresh frequency would depend on the context in which the information is gathered, but at minimum, we request at least daily updates be available.
 
+Also, here is an [article](http://www.drs2016.org/387/) about ethical issues of data visualization you should read before starting the projects.
 
 First, we need to [Find Resources](resources.md).
