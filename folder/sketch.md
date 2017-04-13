@@ -1,6 +1,6 @@
 ## Sketch Ideas
 
-**Knowing Data**
+**Knowing Data Types**
 
 Data variables and data scales: ways to conceptualize and organize data, informs designers how to visually encode data.
 
