@@ -12,3 +12,6 @@ The requirements for the datasets are:
 **Multiple datapoints per location**: the dataset includes multiple datapoints that describes each location. Though we will not necessarily use them all, at least 3 datapoints (in Excel language, at least 3 columns per row of data) are required of datasets we work with. You can freely combine datasets to produce the necessary 3 data points -- for instance, we can merge a routinely updated CSV dataset that has live population counts for the 100 biggest cities, an API that has temperature data for those same cities, and a third website that tracks the cities' air quality.
 
 **Updated/refreshed at intervals**: the information is updated periodically to show change over time in that location. The refresh frequency would depend on the context in which the information is gathered, but at minimum, we request at least daily updates be available.
+
+
+First, we need to [Find Resources](resources.md).
