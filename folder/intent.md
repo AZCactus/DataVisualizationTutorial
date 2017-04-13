@@ -37,6 +37,6 @@ I hope the audiences can get useful information about fishery and ocean health, 
 - [MarineTraffic](http://www.marinetraffic.com/)
 - [Ocean Health Index](http://www.oceanhealthindex.org/)
 - [OBIS](http://www.iobis.org/)
-- [ShipMap](http://www.shipmap.org/)
+- [Shipmap](http://www.shipmap.org/)
 
 Next, we will [Sketch Ideas](sketch.md) to make them tangible.
