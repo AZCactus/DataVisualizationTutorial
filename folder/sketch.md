@@ -18,4 +18,4 @@
 
 ### MY SKETCH
 
-Then, we will [Animate](hype3.md) Ideas to add the dimension of motion.
+Then, we will [Animate Ideas](hype3.md) to add the dimension of motion.
