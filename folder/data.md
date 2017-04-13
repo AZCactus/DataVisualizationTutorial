@@ -1,6 +1,7 @@
 ## Code Visualization
 
 [Basics of D3](https://github.com/zachpino/realtimespace/tree/master/week5)
+[Updating Map](https://github.com/zachpino/realtimespace/tree/master/week6)
 
 **Transitions**
 
