@@ -12,5 +12,5 @@ Our world is increasingly being scanned, sensed, and logged into datasets by gov
 - [Build Website](folder/web.md)
 - [3D Visualization](folder/3d.md)
 - [3D Printing](folder/print.md)
-- [Build Website and Upload Blog](folder/blog.md)
+- [Website and Blog](folder/blog.md)
 - [Make Tutorial](folder/tutorial.md)
