@@ -2,6 +2,7 @@
 ---
 
 **Structure**
+
 Clarify your framing of your project by writing an intent statement. Should include but is not limited to:
 
 - Specific focus of topic area
@@ -19,3 +20,15 @@ Clarify your framing of your project by writing an intent statement. Should incl
 The existing dataset online is messy and I want to sort the vessel information by country, so viewers can focus on countries they are interested in instead of struggling with making sense of the whole dataset. Also I want audiences to explore the correlation between fishery and ocean health, such as endanger species or overfishing. I want to encourage audiences to pay more attention to the topic and supervise illegal fishing activities.
 
 To accomplish this goal, I will first sort the vessel activity information online by countries. Then I will add another layer of data (endangered species, main edible fish distribution, restricted use areas) to the vessel activity data, so that audiences can find some trends and hopefully causality to make them more informed.
+
+**Audience: Citizens**
+
+I hope the audiences can trace fishery activities of different countries in a fun way. Also help them to find potential causality between fishery and ocean health, so they can be more aware of the topic.
+
+**Audience: Ministry of Supervision**
+
+I hope the audiences can monitor and predict illegal activities and make responses timely.
+
+**Audience: Academic and NPO**
+
+I hope the audiences can get useful information about fishery and ocean health, and hopefully they can find potential opportunities to protect ocean and endangered and over-fished species. Also I hope they can use this tool as a boundary object to cooperate with governments and organizations.
