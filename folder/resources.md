@@ -65,6 +65,6 @@ Animals and Plants
 - http://whale.wheelock.edu/whalenet-stuff/StopBm2016/
 - https://www.liverpool.ac.uk/savsnet/real-time-data/1
 
-**This stage is very important, because if you can't get open API resources, not matter how fancy your ideas are, you can't build them. Check the resources twice before you move on.**
+**This stage is very important, because if you can't get open API resources, no matter how fancy your ideas are, you can't build them. Check the resources twice before you move on.**
 
 Next, we will phrase an [Intent Statement](intent.md) to clarify what we want to achieve and guide the visualization process.
