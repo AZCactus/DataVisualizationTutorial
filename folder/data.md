@@ -6,7 +6,11 @@ Learn the [Basics of D3](https://github.com/zachpino/realtimespace/tree/master/w
 
 **Updating Map**
 
-[Updating Map](https://github.com/zachpino/realtimespace/tree/master/week6)
+After learning how to pull API, draw map, and use D3, it's time for us to do an exercise to make an [Updating Map](https://github.com/zachpino/realtimespace/tree/master/week6) to combine all the skills togather. 
+
+MY CODE ([MY MAP](http://shangyanyan.me/REALTIMEMAP/))
+
+
 
 **Transitions**
 
