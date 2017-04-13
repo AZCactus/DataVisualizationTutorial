@@ -187,6 +187,12 @@ After learning how to pull API, draw map, and use D3, it's time for us to do an 
 
 Motion is important for real-time data visualization. So we should learn how to make [Transitions](https://github.com/zachpino/realtimespace/tree/master/week8) of data points to show change of real-time data, which relates to **Dynamic Nature of Spatial Dimension** in section [Sketch Ideas](sketch.md).
 
+**Useful Tools**
+
+[mockaroo](https://www.mockaroo.com/): Some application frameworks, like Ruby on Rails, have great data mocking libraries. But not everyone is a programmer, has time to learn a new framework, or is at liberty to adopt a new platform. Mockaroo allows you to quickly and easily to download large amounts of randomly generated test data based on your own specs which you can then load directly into your test environment using SQL or CSV formats. No programming is required.
+
+[JSON Editor Online](http://www.jsoneditoronline.org/): Organize data structure and hierarchy of JSON file.
+
 **D3 Examples**
 
 We don't always need to make our own codes totally from scratch, because there are already lots of exsiting online resources which we can use. So learning how to modify and combine existing codes can be an essential skill.
