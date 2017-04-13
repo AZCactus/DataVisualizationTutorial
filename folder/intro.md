@@ -1,4 +1,4 @@
-### Introduction
+## Introduction
 -----
 
 The topic for visualization spring 2017 at **IIT Institute of Design** is spatial 'real-time' data. We’re looking for interesting data about a place, where the characteristics of that location are recorded and updated at regular intervals over time. An example would be data gathered through Chicago’s Array of Things that tells you about the nature of a location—e.g. sound, air quality, light at an intersection that’s been outfitted with a sensor node.
