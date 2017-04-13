@@ -11,8 +11,6 @@ Clarify your framing of your project by writing an intent statement. Should incl
 - Candidate datasets, what kind of information/dimensions each one provides
 - Hypothesis of what you’ll get
 
-
-
 ### MY INTENT STATEMENT
 
 **The topic I want to focus is ocean fishery and ocean health.**
