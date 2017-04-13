@@ -3,7 +3,8 @@
 
 Here are some places to start looking. From our experiences, though, the more personal and unique your choice of dataset, the more persuasive your visualizations will be. Explore what's out there, we live in the era of Big Data, there's so much available!
 
-Data Search Engines and General Directories
+Data Search Engines and 
+General Directories
 
 <https://www.data.gov>
 <http://publicdata.eu>
