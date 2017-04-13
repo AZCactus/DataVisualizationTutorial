@@ -12,6 +12,15 @@ The requirements for the datasets are:
 
 **Updated/refreshed at intervals**: the information is updated periodically to show change over time in that location. The refresh frequency would depend on the context in which the information is gathered, but at minimum, we request at least daily updates be available.
 
+- How can interactivity and motion contribute towards designed communication?
+- What visual choices lead to better communication of spatial information in 2D and 3D?
+- How does the resolution and granularity of information change how we interpret it?
+- How can the complexity of global problems be better understood with imagery?
+- When is general information more appropriate than specific information?
+- How can we best make persuasive statements with the visualization of data?
+- In what ways can data analysis and visualization intervene in the design process?
+- What tools can we use to abstract and generalize space?
+
 Also, here is an [article](http://www.drs2016.org/387/) about ethical issues of data visualization you should read before starting the projects.
 
 First, we need to [Find Resources](resources.md).
