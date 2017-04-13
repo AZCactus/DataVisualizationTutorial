@@ -39,4 +39,4 @@ I hope the audiences can get useful information about fishery and ocean health, 
 - [OBIS](http://www.iobis.org/)
 - [Shipmap](http://www.shipmap.org/)
 
-Next, we will [Sketch Ideas](sketch.md) to make them tangible.
+Next, we will [Sketch Ideas](sketch.md) to make them tangible. Also, you can explore [3D Visualization](3d.md) which is a cutting-edge field.
