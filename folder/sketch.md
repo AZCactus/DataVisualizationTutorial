@@ -25,6 +25,19 @@ Considerations to visually encode these data types effectively
 |discrete|individual counts|distinguishable units|
 |ratio|parts of a whole, proportion|distinguishable parts, adding up to a complete unit|
 
+**How we place the marks**
+
+- Point: a location
+- Line: a boundary, a route, a connection
+- Area: an area can change in position but not in size, shape or orientation without making the area itself have a different meaning
+
+**Relating color to data types**
+
+- Qualitative schemes: used for nominal data or differences in kind. Generally, qualitative differences should be represented with colors that are different in hue with similar lightness.
+- Sequential schemes: a lightness sequence is matched to a progression in magnitude from high to low.
+- Binary data: special case of qualitative data with only two categories. … A lightness difference may be the primary color difference distinguishing the two categories with a darker color used for the category to be emphasized.
+- Diverging scheme: emphasizes a critical value within a data range. … Thus, two lightness sequences diverge from the critical value within the data range.
+
 **Dynamic Nature of Spatial Dimension**
 
 Dynamic in two ways: changing existing values and changing the number of visual elements (adding or deleting)
