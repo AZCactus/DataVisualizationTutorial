@@ -9,7 +9,6 @@ Our world is increasingly being scanned, sensed, and logged into datasets by gov
 - [Get API](folder/api.md)
 - [Draw Map](folder/map.md)
 - [Code Visualization](folder/data.md)
-- [Build Website](folder/web.md)
 - [3D Visualization](folder/3d.md)
 - [3D Printing](folder/print.md)
 - [Website and Blog](folder/blog.md)
