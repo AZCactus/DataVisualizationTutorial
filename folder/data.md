@@ -189,9 +189,9 @@ Motion is important for real-time data visualization. So we should learn how to 
 
 **Useful Tools**
 
-[mockaroo](https://www.mockaroo.com/): Some application frameworks, like Ruby on Rails, have great data mocking libraries. But not everyone is a programmer, has time to learn a new framework, or is at liberty to adopt a new platform. Mockaroo allows you to quickly and easily to download large amounts of randomly generated test data based on your own specs which you can then load directly into your test environment using SQL or CSV formats. No programming is required.
+[mockaroo](https://www.mockaroo.com/): allows you to quickly and easily to download large amounts of randomly generated test data based on your own specs which you can then load directly into your test environment using SQL or CSV formats.
 
-[JSON Editor Online](http://www.jsoneditoronline.org/): Organize data structure and hierarchy of JSON file.
+[JSON Editor Online](http://www.jsoneditoronline.org/): Organizes data structure and hierarchy of JSON file.
 
 **D3 Examples**
 
