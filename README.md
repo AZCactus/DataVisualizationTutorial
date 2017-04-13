@@ -1,5 +1,6 @@
 # DataVisualizationTutorial
 How I created my viz, accessed API, etc. Took Zach’s weekly tutorials as reference.
+- [Introduction](folder/intro.md)
 - [Intent Statement](folder/intent.md)
 - [Find Resources](folder/resources.md)
 - [Sketch Ideas](folder/sketch.md)
