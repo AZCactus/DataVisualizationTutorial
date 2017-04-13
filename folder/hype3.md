@@ -2,7 +2,7 @@
 ---
 Download Hype 3 from the offical site. Students can get $20 discount.
 
-[Download Hype 3](http://tumult.com/hype/)
+[Download](http://tumult.com/hype/)
 
 Learn basic of Hype 3 on Lynda.com.
 
