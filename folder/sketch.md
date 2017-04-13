@@ -27,10 +27,14 @@
 - [PolygonFuture ArHficial Killing Machine](http://www.polygonfuture.com/arHficial-killing-machine)
 - [Semiconductor](http://semiconductorfilms.com/art/cosmos/)
 - [HealthMap](http://www.healthmap.org/en/)
-- [Semiconductor]()
-- [Semiconductor]()
-- [Semiconductor]()
-- [Semiconductor]()
+- [Wind Map](http://hint.fm/wind/)
+- [Lucify: The flow towards Europe](http://www.lucify.com/the-flow-towards-europe/)
+- [Shipmap](https://www.shipmap.org)
+- [Adrian Segal: Snow Water Equivalent](http://www.adriensegal.com/snow-water-equivalent)
+- [Nicetrails](https://www.nicetrails.com)
+- [Le Petit Chef - Bouillabaisse](https://vimeo.com/groups/mapping/videos/144008517)
+- [Nike Sneaker SlamNike_HD](https://vimeo.com/groups/mapping/videos/146120409)
+- [MOTOMOTO](https://vimeo.com/groups/mapping/videos/133066899)
 
 ### MY SKETCH
 
