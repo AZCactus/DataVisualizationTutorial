@@ -34,8 +34,9 @@ I hope the audiences can get useful information about fishery and ocean health, 
 **Candidate datasets**
 
 - http://globalfishingwatch.org/
-- https://www.marinetraffic.com/
+- http://www.marinetraffic.com/
 - http://www.oceanhealthindex.org/
 - http://www.iobis.org/
+- http://www.shipmap.org/
 
 Next, we will [Sketch Ideas](sketch.md) to make them tangible.
