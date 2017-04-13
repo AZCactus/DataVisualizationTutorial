@@ -1,3 +1,3 @@
-## Get API
+## Get API and Draw Map 
 
-After getting the API, we will learn how to [Draw Map](map.md) by using javascript and [D3.js](https://d3js.org/).
+Then, we will learn how to [Code Visualization](data.md) by using javascript and [D3.js](https://d3js.org/).
