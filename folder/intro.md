@@ -14,4 +14,4 @@ The requirements for the datasets are:
 
 Also, here is an [article](http://www.drs2016.org/387/) about ethical issues of data visualization you should read before starting the projects.
 
-First, we need to [Find Resources](resources.md). Also, it will be helpful for you to learn how to build [Website and Blog](blog.md), so that you will have a holder for your content and keep track of your progresses and thoughts.
+First, we need to [Find Resources](resources.md). Also, it will be helpful for you to learn how to build [Website and Blog](blog.md) at the same time, so that you will have a holder for your content and keep track of your progresses and thoughts.
