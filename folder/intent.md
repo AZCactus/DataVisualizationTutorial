@@ -20,7 +20,7 @@ https://www.data.gov
 http://publicdata.eu
 http://www.data.go.jp/?lang=english
 http://www.zanran.com/q/
-https://www.reddit.com/r/datasets/   (and check out the linked subreddits too!)
+https://www.reddit.com/r/datasets/
 https://www.exversion.com/search/
 http://www.k12science.org/materials/resources/realtimedata/
 https://github.com/toddmotto/public-apis
