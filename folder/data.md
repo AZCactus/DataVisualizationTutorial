@@ -1,13 +1,20 @@
 ## Code Visualization
 
-[Basics of D3](https://github.com/zachpino/realtimespace/tree/master/week5)
+**Basics of D3**
+
+Learn the [Basics of D3](https://github.com/zachpino/realtimespace/tree/master/week5). We will learn how to draw some dots with a static dataset to make a simple data visualization.
+
+**Updating Map**
+
 [Updating Map](https://github.com/zachpino/realtimespace/tree/master/week6)
 
 **Transitions**
 
 Learn how to make [Transitions](https://github.com/zachpino/realtimespace/tree/master/week8) of data points, which relates to **Dynamic Nature of Spatial Dimension** in section [Sketch Ideas](sketch.md).
 
-**D3 Examples to Look At**
+**D3 Examples**
+
+We don't always need to make our own codes totally from scratch, because there are already lots of exsiting online resources which we can use. So learning how to modify and combine existing codes can be an essential skill.
 
 All v4 Examples
 
