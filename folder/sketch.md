@@ -17,9 +17,11 @@ Quantitative
 
 |data type|what’s important|visual perceptual criteria|
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|nominal|make categories distinguishable|clear differentiation, high contrast/separation|
+|ordinal|show sequenced ranges|progressive steps or order|
+|continuous|show seamless, clear measurements|continuity, clear measurements units|
+|discrete|individual counts|distinguishable units|
+|ratio|parts of a whole, proportion|distinguishable parts, adding up to a complete unit|
 
 **Inspiration and Precedent**
 
