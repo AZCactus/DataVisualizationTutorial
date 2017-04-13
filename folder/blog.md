@@ -194,9 +194,8 @@
 - [Introducing prismic.io](https://github.com/zachpino/id_proto/tree/master/week5)
 
 ### MY CODES
-
 ```
-		<!DOCTYPE html>
+        <!DOCTYPE html>
 	<html>
 	<head>
 		<title>Blog</title>
@@ -235,4 +234,4 @@
 
 	</body>
 	</html>
-```
+	```
