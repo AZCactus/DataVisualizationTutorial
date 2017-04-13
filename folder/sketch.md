@@ -13,6 +13,11 @@
 - http://www.creaKveapplicaKons.net
 - http://www.datavisualizaKon.ch
 
+**Relevant Projects**
+
+- [Simon Heijdens: Shade London](http://www.simonheijdens.com/index.php?type=project&name=Shade%20London)
+
+
 ### MY SKETCH
 
 Then, we will [Animate](hype3.md) Ideas to add the dimension of motion.
