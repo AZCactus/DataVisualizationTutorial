@@ -3,15 +3,15 @@
 **Inspiration and Precedent**
 
 - http://www.dear-data.com
-- http://www.informaKonisbeauKful.net
+- http://www.informationisbeautiful.net
 - http://www.datapointed.com
 - http://www.visualnews.com
 - http://nytlabs.com
 - http://flowingdata.com
 - http://fivethirtyeight.com
-- http://infostheKcs.com
-- http://www.creaKveapplicaKons.net
-- http://www.datavisualizaKon.ch
+- http://infosthetics.com
+- http://www.creativeapplications.net
+- http://www.datavisualization.ch
 
 **Relevant Projects**
 
