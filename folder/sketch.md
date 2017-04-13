@@ -22,7 +22,7 @@
 - [Studio Roosegaarde: Waterlicht](https://www.studioroosegaarde.net/project/waterlicht/)
 - [Mischer Traxler: the idea of a tree – recorder one](https://www.mischertraxler.com/projects_the_idea_of_a_tree_recorder_one.html)
 - [Quadrature Satelliten](https://vimeo.com/121407749)
-- [rAndom: Fragments](https://random-internaHonal.com/work/fragments/)
+- [rAndom: Fragments](https://random-international.com/work/fragments/)
 - [James Leng](http://www.jamesleng.net/pointcloud/)
 - [PolygonFuture Arttficial Killing Machine](http://www.polygonfuture.com/artificial-killing-machine)
 - [Semiconductor](http://semiconductorfilms.com/art/cosmos/)
