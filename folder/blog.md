@@ -1,12 +1,14 @@
 ## Upload Blog
 
+We will build a website to hold our data visualization and update blogs. We will learn how to set up the web server first and then learn about basics of HTML, CSS and responsive design to build our website. Then we will learn how to use prismic.io to manage our content then we can update our blogs easily without changing HTML and CSS codes.
+
 **Basic of HTML and CSS**
 - [Standing Up a Server](https://github.com/zachpino/id_proto/tree/master/week1)
 - [HTML Elements and the Box Model](https://github.com/zachpino/id_proto/tree/master/week2)
 - [CSS Positioning](https://github.com/zachpino/id_proto/tree/master/week3)
 - [Responsive Design](https://github.com/zachpino/id_proto/tree/master/week4)
 
-### MY CODES
+### MY CODES ([MY HOMEPAGE](http://shangyanyan.me/))
 ```
 <html>
 <head>
@@ -193,7 +195,7 @@
 **Setup [Prismic.io](https://prismic.io/) for Content Management**
 - [Introducing prismic.io](https://github.com/zachpino/id_proto/tree/master/week5)
 
-### MY CODES
+### MY CODES (([MY BLOG](http://shangyanyan.me/prismic/index.html))
 ```
         <!DOCTYPE html>
 	<html>
