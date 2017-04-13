@@ -17,8 +17,8 @@ Quantitative
 
 Considerations to visually encode these data types effectively
 
-|data type|what’s important|visual perceptual criteria|
 | ------------- | ------------- | ----- |
+|data type|what’s important|visual perceptual criteria|
 |nominal|make categories distinguishable|clear differentiation, high contrast/separation|
 |ordinal|show sequenced ranges|progressive steps or order|
 |continuous|show seamless, clear measurements|continuity, clear measurements units|
