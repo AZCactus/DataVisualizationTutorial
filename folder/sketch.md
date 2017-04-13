@@ -27,9 +27,7 @@ Considerations to visually encode these data types effectively
 
 **Dynamic Nature of Spatial Dimension**
 
-Dynamic in two ways:
-- changing existing values
-- changing the number of visual elements (adding or deleting)
+Dynamic in two ways: changing existing values and changing the number of visual elements (adding or deleting)
 
 - Fixed: The spatial dimensions do not change. The number of visual elements is fixed at the start of the visualization. Visual elements do not move.
 - Create: New elements may be created in response to incoming data. Existing element positions may be mutated.
