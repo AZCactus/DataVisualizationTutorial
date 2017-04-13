@@ -32,3 +32,12 @@ I hope the audiences can monitor and predict illegal activities and make respons
 **Audience: Academic and NPO**
 
 I hope the audiences can get useful information about fishery and ocean health, and hopefully they can find potential opportunities to protect ocean and endangered and over-fished species. Also I hope they can use this tool as a boundary object to cooperate with governments and organizations.
+
+**Candidate datasets**
+
+- http://globalfishingwatch.org/
+- https://www.marinetraffic.com/
+- http://www.oceanhealthindex.org/
+- http://www.iobis.org/
+
+Next, we will [Sketch Ideas](sketch.md) to make them tangible.
