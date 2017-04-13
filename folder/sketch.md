@@ -24,7 +24,7 @@
 - [Quadrature Satelliten](https://vimeo.com/121407749)
 - [rAndom: Fragments](https://random-internaHonal.com/work/fragments/)
 - [James Leng](http://www.jamesleng.net/pointcloud/)
-- [PolygonFuture ArHficial Killing Machine](http://www.polygonfuture.com/arHficial-killing-machine)
+- [PolygonFuture Arttficial Killing Machine](http://www.polygonfuture.com/artificial-killing-machine)
 - [Semiconductor](http://semiconductorfilms.com/art/cosmos/)
 - [HealthMap](http://www.healthmap.org/en/)
 - [Wind Map](http://hint.fm/wind/)
