@@ -25,6 +25,18 @@ Considerations to visually encode these data types effectively
 |discrete|individual counts|distinguishable units|
 |ratio|parts of a whole, proportion|distinguishable parts, adding up to a complete unit|
 
+**Dynamic Nature of Spatial Dimension**
+
+Dynamic in two ways:
+- changing existing values
+- changing the number of visual elements (adding or deleting)
+
+- Fixed: The spatial dimensions do not change. The number of visual elements is fixed at the start of the visualization. Visual elements do not move.
+- Create: New elements may be created in response to incoming data. Existing element positions may be mutated.
+- Mutable: The number of elements remains fixed throughout the visualization process, but the location of elements may change over time.
+- Create & Delete: Elements may be created or deleted in response to incoming data.
+
+
 **Inspiration and Precedent**
 
 - http://www.dear-data.com
