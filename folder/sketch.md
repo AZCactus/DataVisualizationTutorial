@@ -1,5 +1,20 @@
 ## Sketch Ideas
 
+**Knowing Data**
+
+Data variables and data scales: ways to conceptualize and organize data, informs designers how to visually encode data.
+
+Qualitative
+- Nominal:Discrete subdivisions, categories, groupings. *e.g. produce, types of animals*
+- Ordinal: Ordered, sequential categories. *e.g.Low Medium High; Past Present Future*
+- Dichotomous: Nominal but two categories. Boolean, binary. *e.g. Gender*
+
+Quantitative
+- Continuous: Numerical data that can theoretically be measured in infinitely small units.
+- Discrete: Consists of numerical values or counts.
+- Ratio: Numbers can be compared as multiples of one another. Parts of a whole, proportion, parametric.
+- Interval: Individual, sequential numerical ranges. Scale with fixed and defined interval.
+
 **Inspiration and Precedent**
 
 - http://www.dear-data.com
