@@ -1,5 +1,4 @@
-### Intent Statement
----
+## Intent Statement
 
 **Structure**
 
