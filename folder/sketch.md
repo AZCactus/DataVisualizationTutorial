@@ -38,6 +38,9 @@
 - [BARTKRESA design: Shogyo Mujo](https://vimeo.com/groups/mapping/videos/138036294)
 - [The Ark](https://vimeo.com/85212054)
 
+**Related Books**
+- [GREAT MAPS](https://www.amazon.com/Great-Maps-Smithsonian-Jerry-Brotton/dp/1465424636)
+
 ### MY SKETCH
 
 Then, we will [Animate](hype3.md) Ideas to add the dimension of motion.
