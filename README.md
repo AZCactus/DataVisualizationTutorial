@@ -8,7 +8,7 @@ Our world is increasingly being scanned, sensed, and logged into datasets by gov
 - [Animate Ideas](folder/hype3.md)
 - [Get API & Draw Map](folder/api.md)
 - [Basics of D3](folder/data.md)
-- [Updating Map](folder/updating.md)
+- [Update Map](folder/updating.md)
 - [Transitions](folder/transitions.md)
 - [Zoom, Label, Interaction](folder/other.md)
 - [3D Visualization](folder/3d.md)
