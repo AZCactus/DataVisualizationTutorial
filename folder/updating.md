@@ -1,8 +1,57 @@
 ## Updating Map
 
+Learn to pull API and sent interval to update your visualization.
+
+### EXAMPLE 1
+```
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Updating Weather Map</title>
+</head>
+<body>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+
+ <script>
+      //d3 code goes here
+      var width = 960;
+      var height = 600;
+      var apikey = "5578ca60f4a6a8779dc3ef883dacda6b";
+      var cities = "4887442,2037013,1814087,1795269,1850147,1668341,1835848,745044";
+
+        //scales for mapping input to output bounds
+        var x = d3.scaleLinear().domain([-180,180]).range([0, width]);
+        var y = d3.scaleLinear().domain([-90,90]).range([height, 0]);
+        var tmp = d3.scaleLinear().domain([-20,40]).range([0,1]);
+      
+        var svg = d3.select('body').append('svg').attr("width", width).attr("height", height).style("background-color","#cde");
+
+        d3.json('http://api.openweathermap.org/data/2.5/group?id=' + cities + "&units=metric&appid=" +apikey, function(error,weather) { if (error) throw error;
+        	console.log(weather);
+
+        	svg.selectAll(".dot")
+                .data(weather.list)
+                .enter()
+                .append("circle")
+                .attr("r", function(d) { return  10})
+                .attr("cx", function(d) { return x(d.coord.lon); })
+                .attr("cy", function(d) { return y(d.coord.lat); })
+                .attr("fill",function(d) { return d3.interpolatePlasma(tmp(d.main.temp)); })
+                .attr("stroke","#fff")
+                .attr("stroke-width","1")
+                .classed("dot",true)
+                ;
+
+        });
+  </script>
+
+</body>
+</html>
+```
 After learning how to pull API, draw map, and use D3, it's time for us to do an exercise to make an [Updating Map](https://github.com/zachpino/realtimespace/tree/master/week6) to combine all the skills togather. 
 
-### EXAMPLE ([LINK](http://shangyanyan.me/REALTIMEMAP/))
+### EXAMPLE 2 ([LINK](http://shangyanyan.me/REALTIMEMAP/))
 ```
 	        <!DOCTYPE html>
 		<html>
