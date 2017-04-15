@@ -94,4 +94,4 @@ Geography
 
 [Mike Bostock's Blocks](https://bl.ocks.org/mbostock)
 
-Then, we will learn to [Update Map](update.md).
+Then, we will learn to [Update Map](updating.md).
