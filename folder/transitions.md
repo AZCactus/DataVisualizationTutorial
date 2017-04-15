@@ -116,3 +116,4 @@ var interval = setInterval(
 </body>
 </html>
 ```
+Then, we will learn [Zoom, Label, Interaction](other.md).
