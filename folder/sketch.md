@@ -38,7 +38,7 @@ Considerations to visually encode these data types effectively
 - Binary data: special case of qualitative data with only two categories. … A lightness difference may be the primary color difference distinguishing the two categories with a darker color used for the category to be emphasized.
 - Diverging scheme: emphasizes a critical value within a data range. … Thus, two lightness sequences diverge from the critical value within the data range.
 
-[ColorBrewer](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) can help you pick up colors. [Color Oracle](http://colororacle.org/) can help you design for people with visual impairment.
+[ColorBrewer](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) and [LOL Colors](http://www.lolcolors.com/) can help you pick up colors. [Color Oracle](http://colororacle.org/) can help you design for people with visual impairment. 
 
 **Dynamic Nature of Spatial Dimension**
 
