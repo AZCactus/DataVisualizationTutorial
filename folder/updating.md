@@ -1,4 +1,4 @@
-## Updating Map
+## Update Map
 
 Learn to pull API and set interval to update your visualization.
 
