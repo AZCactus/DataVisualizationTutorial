@@ -1,6 +1,6 @@
 ## Updating Map
 
-Learn to pull API and sent interval to update your visualization.
+Learn to pull API and set interval to update your visualization.
 
 ### EXAMPLE 1
 ```
