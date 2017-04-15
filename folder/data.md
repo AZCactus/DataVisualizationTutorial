@@ -191,7 +191,7 @@ Motion is important for real-time data visualization. So we should learn how to 
 
 [mockaroo](https://www.mockaroo.com/): allows you to quickly and easily to download large amounts of randomly generated test data based on your own specs which you can then load directly into your test environment using SQL or CSV formats.
 
-[JSON Editor Online](http://www.jsoneditoronline.org/): Organizes data structure and hierarchy of JSON file.
+[JSON Editor Online](http://www.jsoneditoronline.org/)/[Online JSON Viewer](http://jsonviewer.stack.hu/): Organizes data structure and hierarchy of JSON file.
 
 **D3 Examples**
 
