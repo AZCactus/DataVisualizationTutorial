@@ -162,3 +162,4 @@ function drawMap(){
 </body>
 </html>
 ```
+Then, we will learn [Transitions](transitions.md).
