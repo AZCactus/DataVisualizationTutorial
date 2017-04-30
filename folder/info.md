@@ -1,5 +1,11 @@
 ## Learn More
 
+### Securing, Accessing and Using Government Data
+
+You may have seen this [new website](https://www.usafacts.org/) that presents government data, sourced from the government. 
+
+Steve Ballmer, former Microsoft CEO is the creator behind this. Read [here](https://www.nytimes.com/2017/04/17/business/dealbook/steve-ballmer-serves-up-a-fascinating-data-trove.html) for background. I find their sources and [methodology](https://www.usafacts.org/methodology) section helpful in understanding the provenance of their data and their openness for comments and improvement; it’s quite spelled out and open which leads to a greater level of credibility and accountability.
+
 ### Endangered Data week events
 
 Details surrounding the activities for Endangered Data week from Aric Ahrens (ahrens@iit.edu) at Galvin Library:
