@@ -8,7 +8,7 @@ Steve Ballmer, former Microsoft CEO is the creator behind this. Read [here](http
 
 ### Endangered Data week events
 
-Details surrounding the activities for [Endangered Data week](http://endangereddataweek.org/) from Aric Ahrens (ahrens@iit.edu) at Galvin Library:
+Details surrounding the activities for [Endangered Data week](http://endangereddataweek.org/) from Aric Ahrens (ahrens@iit.edu) at [Galvin Library](http://library.iit.edu/news/endangered-data-week-galvin-library):
 
 **Monday**: Orientation to DataLumos-ICPSR's archive to preserve valuable government data: [Link](https://www.youtube.com/watch?v=mzvlJk_wbzw)
 
