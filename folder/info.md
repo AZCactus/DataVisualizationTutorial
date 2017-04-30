@@ -24,9 +24,7 @@ Raising Awareness and Engaging your Community through DataRescue: [Link](https:/
 
 Finally, there are more virtual events going on around the world: [Link](http://endangereddataweek.org/map/?sorts%5Bdate%5D=1)
 
-**Saturday**: Data Rescue event at Northwestern University: [Link](DataRescueCHI.Eventbrite.com)
-
-The event is one of dozens held since January geared to downloading and preserving at risk environmental data sets. Here is the website for the folks at Penn who started it all: [Link](http://www.ppehlab.org/datarescue-events/)
+**Saturday**: Data Rescue event at Northwestern University. The event is one of dozens held since January geared to downloading and preserving at risk environmental data sets. Here is the [website](http://www.ppehlab.org/datarescue-events/) for the folks at Penn who started it all
 
 ### 3D Printing
 
