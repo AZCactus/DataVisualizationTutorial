@@ -21,3 +21,7 @@ Finally, there are more virtual events going on around the world: [Link](http://
 **Saturday**: Data Rescue event at Northwestern University: [Link](DataRescueCHI.Eventbrite.com)
 
 The event is one of dozens held since January geared to downloading and preserving at risk environmental data sets. Here is the website for the folks at Penn who started it all: [Link](http://www.ppehlab.org/datarescue-events/)
+
+### 3D Printing
+
+[Broke a Glass? Someday You Might 3-D-Print a New One](https://www.nytimes.com/2017/04/19/science/3d-printer-glass.html?em_pos=small&emc=edit_ct_20170420&nl=technology&nl_art=4&nlid=6858502&ref=headline&te=1&_r=0)
