@@ -33,7 +33,7 @@ I hope the audiences can get useful information about fishery and ocean health, 
 
 **Candidate datasets**
 
-- [Global Fishing Watch](http://globalfishingwatch.org/)
+- [Global Fishing Watch](http://globalfishingwatch.org/) ([This blog](http://info.globalfishingwatch.org/webmail/183512/52131873/1d45e84bfae36a9b56ffe78ae2b75b3e65cbce7a983b77df73171315bee9631b) explains how Global Fishing Watch selects fishing vessels)
 - [MarineTraffic](http://www.marinetraffic.com/)
 - [Ocean Health Index](http://www.oceanhealthindex.org/)
 - [OBIS](http://www.iobis.org/)
