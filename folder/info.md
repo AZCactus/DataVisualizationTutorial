@@ -6,7 +6,7 @@ You may have seen this [new website](https://www.usafacts.org/) that presents go
 
 Steve Ballmer, former Microsoft CEO is the creator behind this. Read [here](https://www.nytimes.com/2017/04/17/business/dealbook/steve-ballmer-serves-up-a-fascinating-data-trove.html) for background. I find their sources and [methodology](https://www.usafacts.org/methodology) section helpful in understanding the provenance of their data and their openness for comments and improvement; it’s quite spelled out and open which leads to a greater level of credibility and accountability.
 
-### Endangered Data week events
+### Endangered Data Week Events
 
 Details surrounding the activities for [Endangered Data week](http://endangereddataweek.org/) from Aric Ahrens (ahrens@iit.edu) at [Galvin Library](http://library.iit.edu/news/endangered-data-week-galvin-library):
 
