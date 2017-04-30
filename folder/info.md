@@ -18,9 +18,7 @@ Details surrounding the activities for [Endangered Data week](http://endangeredd
 
 **Thursday**: [End of Term Publication Metadata Project](https://digital.library.unt.edu/explore/collections/EOT/)
 
-**Friday**: [Endangered Accountability: A DLF-Sponsored Webinar on FOIA, Government Data, and Transparency](http://endangereddataweek.org/events/2017-04-21-endangered-accountability-a-dlf-sponsored-webinar-on-foia-government-data-and-transparency/)
-
-[Raising Awareness and Engaging your Community through DataRescue](https://www.fdlp.gov/index.php?option=com_rseventspro&layout=show&id=266:raising-awareness-and-engaging-your-community-through-datarescue&utm_source=newsletter_1108&utm_medium=email&utm_campaign=free-webinars-in-bloom-this-april-from-gpo)
+**Friday**: [Endangered Accountability: A DLF-Sponsored Webinar on FOIA, Government Data, and Transparency](http://endangereddataweek.org/events/2017-04-21-endangered-accountability-a-dlf-sponsored-webinar-on-foia-government-data-and-transparency/) and [Raising Awareness and Engaging your Community through DataRescue](https://www.fdlp.gov/index.php?option=com_rseventspro&layout=show&id=266:raising-awareness-and-engaging-your-community-through-datarescue&utm_source=newsletter_1108&utm_medium=email&utm_campaign=free-webinars-in-bloom-this-april-from-gpo)
 
 Finally, there are more [virtual events](http://endangereddataweek.org/map/?sorts%5Bdate%5D=1) going on around the world
 
