@@ -11,6 +11,8 @@ Our world is increasingly being scanned, sensed, and logged into datasets by gov
 - [Update Map](folder/updating.md)
 - [Transitions](folder/transitions.md)
 - [Zoom, Label, Interaction](folder/other.md)
+- [Overlay No-take Zone](folder/lay.md)
+- [Add Real-time Data](folder/real.md)
 - [3D Visualization](folder/3d.md)
 - [Website and Blog](folder/blog.md)
 - [Make Tutorial](folder/tutorial.md)
