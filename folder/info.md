@@ -27,3 +27,6 @@ Finally, there are more [virtual events](http://endangereddataweek.org/map/?sort
 ### 3D Printing
 
 [Broke a Glass? Someday You Might 3-D-Print a New One](https://www.nytimes.com/2017/04/19/science/3d-printer-glass.html?em_pos=small&emc=edit_ct_20170420&nl=technology&nl_art=4&nlid=6858502&ref=headline&te=1&_r=0)
+
+### Data Visualization and Elegant Storytelling
+Nice combination of visualizations, models and narrative to tell a story simply: [As Arctic Ice Vanishes, New Shipping Routes Open](https://www.nytimes.com/interactive/2017/05/03/science/earth/arctic-shipping.html?smid=pl-share&_r=0)
