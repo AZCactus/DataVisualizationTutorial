@@ -17,32 +17,19 @@ The first few digits of the mmsi number tell you which country the boat is from 
 .label{fill:lightgrey; font-size:10px; opacity:0;}
 .label:hover{fill:lightgrey; font-size:10px; opacity:1;} 
 #sphere {fill:#1C3148; stroke:#fff; stroke-width:.2px;}
-
 #cSelected{fill:#88B9D3;}
-
 path.mpa{stroke:#e85a71; stroke-width:0.1px; fill:#e85a71; fill-opacity:.5;}
-
 a {color:#808080;}
 a:hover {color: black;} 
-
 text.label{font-family:menlo; font-size:8px; fill:#eee;}
-
 text.tooltip {fill:#eee; font-family: menlo; font-size: 10px;}
-
 text.tooltipBoat{fill:#eee; font-family: menlo; font-size: 10px;}
-
 html { box-sizing: border-box;}
-
 *, *:before, *:after {box-sizing: inherit;}
-
 #container{width:100%; margin-left: auto; margin-right: auto;}
-
 #containermain{width:100%; float: left;}
-
 .row::after {content: ""; clear: both; display: table;}
-
 .col{float:left; min-height:50px; margin-left:.5%; margin-right:.5%; margin-top:.5%; margin-bottom:.5%;}
-
 .centered{margin-left:auto; margin-right:auto; float:none;}
 
 .one{ width:7.333%; }
