@@ -40,12 +40,18 @@ Nice combination of visualizations, models and narrative to tell a story simply:
 An software about making API calls called [Postman](https://www.getpostman.com/)
 - [Giphy](https://giphy.com/) and Quicktime has a desktop app and hleps to record a video or gif on the screen
 
+### Dataset Resources
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [OpenGrid](https://chicago.opengrid.io/opengrid/)
+
 ### Inspirations
 - [Globe Making (1955)](https://www.youtube.com/watch?v=4RWcWSN4HhI)
+- [Seeing Theory](http://students.brown.edu/seeing-theory/)
 - [Paper Planes](https://paperplanes.world/)
 - [Humanity's cultural history captured in 5-minute film](http://www.nature.com/news/humanity-s-cultural-history-captured-in-5-minute-film-1.15650)
 - [New York transit (MTA): one day of activity](https://www.youtube.com/watch?v=4M0soXr2cHA)
 - [Boston public schools map switch aims to amend 500 years of distortion](https://www.theguardian.com/education/2017/mar/19/boston-public-schools-world-map-mercator-peters-projection)
 - [DIY Your Own City Symphony With This Database of Urban Noise](https://www.citylab.com/navigator/2017/02/stanza-artist-urban-symphony-city-noise/517536/?utm_source=fbb)
+- [The most Googled products in every country in one crazy map](http://www.businessinsider.com/google-cost-searches-2015-4?r=UK&IR=T)
 
 
