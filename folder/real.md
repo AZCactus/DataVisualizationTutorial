@@ -231,3 +231,4 @@ g.attr("transform", d3.event.transform); // updated for d3 v4
 </body>
 </html>
 ```
+Then, we will [Assign Vessels to Countries and Finish the Map](finish.md).
