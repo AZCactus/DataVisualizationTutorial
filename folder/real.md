@@ -1,9 +1,11 @@
 ## Add Real-time Data
 
-I'm pulling in data from this [site](http://www.myshiptracking.com). The site constructs data requests like [this] (http://www.myshiptracking.com/requests/vesselsonmap.php?type=json&minlat=10&maxlat=30&minlon=-145&maxlon=-125&zoom=7)
+I'm pulling in data from this [site](http://www.myshiptracking.com). The site constructs data requests like [this](http://www.myshiptracking.com/requests/vesselsonmap.php?type=json&minlat=10&maxlat=30&minlon=-145&maxlon=-125&zoom=7)
 
 We can construct queries with a latlong bounding box (but it will return null if the bounding box exceeds ~25 degrees each of latitude and longitude). It updates boats as new data comes in... seems to be a TTL in most cases of around 60 seconds, but each request seems to return at least a few new coordinates. The api maps the 'TYPE' key to "10" for fishing vessels.[Here](https://drive.google.com/file/d/0B5u4PuXicC6vRG5UX1lFcjJkZjQ/view?usp=sharing) is a working map and all necessary files with a working api request. Run it on your machine with the python line (python -m simpleHTTPServer 8080
 ) for now. Alternatively, you can also view the file://… object in Safari, and under “develop" menu, set “Disable Cross Origin Restrictions.”
+
+![sketch](https://s-media-cache-ak0.pinimg.com/564x/55/02/36/550236a9437c439dabdb17ce50d3784b.jpg)
 
 ### EXAMPLE ([LINK](http://shangyanyan.me/mpa/))
 ```
@@ -229,4 +231,3 @@ g.attr("transform", d3.event.transform); // updated for d3 v4
 </body>
 </html>
 ```
-![sketch](https://s-media-cache-ak0.pinimg.com/564x/55/02/36/550236a9437c439dabdb17ce50d3784b.jpg)
