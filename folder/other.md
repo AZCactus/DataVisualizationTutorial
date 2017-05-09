@@ -82,58 +82,58 @@ d3.json("world-110m.json", function(err,geojson){
 
 
 /*	
-    d3.json("world-110m.json", function(err,geojson){
-	   g.selectAll("text.label")
-	   .data(geojson.features)
-	   .enter()
-	   .append("text")
-	   .attr("x",function(d){return path.centroid(d)[0]})
-	   .attr("y",function(d){return path.centroid(d)[1]})
-	   .text(function(d){return d.properties.name})
-	   .attr("text-anchor","middle")
-	   .append("text")
-	   .classed("label",true)
-	   ;
-	});
+d3.json("world-110m.json", function(err,geojson){
+g.selectAll("text.label")
+.data(geojson.features)
+.enter()
+.append("text")
+.attr("x",function(d){return path.centroid(d)[0]})
+.attr("y",function(d){return path.centroid(d)[1]})
+.text(function(d){return d.properties.name})
+.attr("text-anchor","middle")
+.append("text")
+.classed("label",true)
+;
+});
 
 */
 
-	d3.json("disputed.json", function(err,geojson){
-		g.selectAll("path.disputed")
-		.data(geojson.features)
-		.enter()
-		.append("path")
-		.attr("d", path)
-		.classed("disputed",true)
-		.on("mouseover", function(d){
-			tooltip
-			.text(d.properties.BRK_NAME + "|" + d.properties.NOTE_BRK)
-			.attr("x",(d3.event.pageX) + "px")
-			.attr("y",(d3.event.pageY) + "px")
-			.transition()
-			.duration(300)
-
-			
-			.attr("fill-opacity","1")
-		})
-		.on("mouseout",function(d){
-			tooltip
-			.transition()
-			.duration(300)
-			.attr("fill-opacity","0")
-		})
-		;
-
-        var tooltip = d3.select("svg")
-        .append("text")
-        .attr("fill-opacity","0")
-        .text("tooltip!")
-        .classed("tooltip",true)
-        ;
+d3.json("disputed.json", function(err,geojson){
+	g.selectAll("path.disputed")
+	.data(geojson.features)
+	.enter()
+	.append("path")
+	.attr("d", path)
+	.classed("disputed",true)
+	.on("mouseover", function(d){
+		tooltip
+		.text(d.properties.BRK_NAME + "|" + d.properties.NOTE_BRK)
+		.attr("x",(d3.event.pageX) + "px")
+		.attr("y",(d3.event.pageY) + "px")
+		.transition()
+		.duration(300)
 
 
+		.attr("fill-opacity","1")
+	})
+	.on("mouseout",function(d){
+		tooltip
+		.transition()
+		.duration(300)
+		.attr("fill-opacity","0")
+	})
+	;
 
-	});
+	var tooltip = d3.select("svg")
+	.append("text")
+	.attr("fill-opacity","0")
+	.text("tooltip!")
+	.classed("tooltip",true)
+	;
+
+
+
+});
 });
 
 function zoomed() {
@@ -145,3 +145,4 @@ function zoomed() {
 </body>
 </html>
 ```
+With those basic knowledge, we can learn how to [Overlay No-take Zone](lay.md).
