@@ -68,4 +68,6 @@ Dynamic in two ways: changing existing values and changing the number of visual 
 
 ### MY SKETCH
 
+![alt text](https://prismic-io.s3.amazonaws.com/fishery-and-ocean-health/cd06930dcbf7e2f1c583106d3730a28b2e960f51_untitled-2.png)
+
 Then, we will [Animate Ideas](hype3.md) to add the dimension of motion.
