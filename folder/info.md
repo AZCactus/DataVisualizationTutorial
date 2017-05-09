@@ -35,8 +35,8 @@ Nice combination of visualizations, models and narrative to tell a story simply:
 - [D3 tutodials on lynda](https://www.lynda.com/D3-js-tutorials/Welcome/504428/549380-4.html?autoplay=true)
 - [Mapping Data with D3](http://duspviz.mit.edu/d3-workshop/mapping-data-with-d3/)
 - [PROGRESS BAR.JS](https://kimmobrunfeldt.github.io/progressbar.js/)
-- An software about making API calls called [Postman](https://www.getpostman.com/)
-- [Giphy](https://giphy.com/) and Quicktime can hlep to record a video or gif on the screen
+- [Postman](https://www.getpostman.com/)
+- [Giphy](https://giphy.com/) and Quicktime
 - [Shape Blobbing in CSS](https://css-tricks.com/shape-blobbing-css/)
 - [The Gooey Effect](https://css-tricks.com/gooey-effect/)
 - [How to Resize an SVG When the Window is Resized in d3.js](https://chartio.com/resources/tutorials/how-to-resize-an-svg-when-the-window-is-resized-in-d3-js/)
