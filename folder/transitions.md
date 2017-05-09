@@ -16,7 +16,6 @@ Motion is important for real-time data visualization. So we should learn how to 
 <body>
 	<button onclick="drawDots()">Click Me!</button>
 
-
 	<script src="https://d3js.org/d3.v4.min.js"></script>
 
 	<script>
@@ -109,9 +108,7 @@ var interval = setInterval(
     }, 5000
     );
 
-
 </script>
-
 
 </body>
 </html>
