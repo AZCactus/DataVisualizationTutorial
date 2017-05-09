@@ -30,13 +30,12 @@ You can learn basic of Hype 3 on [Lynda.com](https://www.lynda.com/Hype-tutorial
 - [The Ark](https://vimeo.com/85212054)
 
 ### MY ANIMATION
-
+#### Animation 1
 <a href="https://youtu.be/UO9D80h2KWU" target="_blank"><img src="https://s-media-cache-ak0.pinimg.com/originals/1e/15/56/1e155614fd5ce64d7e167c139c6c2a8f.jpg" 
 alt="Animation1" width="480" height="320" border="10" /></a>
-#### Animation 1
 
+#### Animation 2
 <a href="https://youtu.be/0VR6BfCgoUk" target="_blank"><img src="https://s-media-cache-ak0.pinimg.com/564x/8e/8a/37/8e8a37ebcc9849f467ab9e394bda9942.jpg" 
 alt="Animation1" width="480" height="320" border="10" /></a>
-#### Animation 2
 
 Then, it's time for us to play with codes. We will [Get API & Draw Map](api.md) from online resources.
