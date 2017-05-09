@@ -1,6 +1,6 @@
 ## Finish the Map
 
-The first few digits of the mmsi number tell you which country the boat is from ([example 1](http://s73417h.github.io/MIDs/)&[example 2](http://www.vtexplorer.com/vessel-tracking-mmsi-mid-codes.html), so we can use those digits to assign vessels to the countries they're from. And the final code looks like this: 
+The first few digits of the mmsi number tell you which country the boat is from ([example 1](http://s73417h.github.io/MIDs/) & [example 2](http://www.vtexplorer.com/vessel-tracking-mmsi-mid-codes.html), so we can use those digits to assign vessels to the countries they're from. And the final code looks like this: 
 
 ```
 <html>
