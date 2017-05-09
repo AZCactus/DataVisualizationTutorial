@@ -2059,3 +2059,6 @@ g.attr("transform", d3.event.transform);
 </body>
 </html>
 ```
+### Reflection
+
+Those kind of data visualization can be applied into other domains, such as [this](https://www.allaboutbirds.org/mesmerizing-migration-watch-118-bird-species-migrate-across-a-map-of-the-western-hemisphere/?utm_content=buffer0b3e1&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer) and [this](https://opensky-network.org/).
