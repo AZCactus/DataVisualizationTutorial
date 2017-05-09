@@ -31,4 +31,6 @@ You can learn basic of Hype 3 on [Lynda.com](https://www.lynda.com/Hype-tutorial
 
 ### MY ANIMATION
 
+![Animation](https://youtu.be/0VR6BfCgoUk)
+
 Then, it's time for us to play with codes. We will [Get API & Draw Map](api.md) from online resources.
