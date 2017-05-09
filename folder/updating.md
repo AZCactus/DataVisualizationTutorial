@@ -7,7 +7,7 @@ Learn to pull API and set interval to update your visualization.
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Updating Weather Map</title>
+      <title>Updating Weather Map</title>
 </head>
 <body>
 
@@ -145,10 +145,7 @@ svg.selectAll(".label")
 .text(function(d){return d.name + " " + +(d.main.temp - 273).toFixed(2); })
 .attr("transform", function(d){return "translate(" + projection([d.coord.lon,d.coord.lat]) + ")";})
 .attr("font-size" , 10)
-.classed("label",true)
-;
-
-
+.classed("label",true);
 
 });
 }
