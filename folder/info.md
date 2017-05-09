@@ -37,8 +37,9 @@ Nice combination of visualizations, models and narrative to tell a story simply:
 - [D3 tutodials on lynda](https://www.lynda.com/D3-js-tutorials/Welcome/504428/549380-4.html?autoplay=true)
 - [How to get coordinates from a location name](http://stackoverflow.com/questions/17276036/how-to-get-coordinates-from-a-location-name)
 - [PROGRESS BAR.JS](https://kimmobrunfeldt.github.io/progressbar.js/)
-An software about making API calls called [Postman](https://www.getpostman.com/)
+- An software about making API calls called [Postman](https://www.getpostman.com/)
 - [Giphy](https://giphy.com/) and Quicktime has a desktop app and hleps to record a video or gif on the screen
+- [What is a clearfix?](http://stackoverflow.com/questions/8554043/what-is-a-clearfix)
 
 ### Dataset Resources
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
@@ -46,12 +47,18 @@ An software about making API calls called [Postman](https://www.getpostman.com/)
 
 ### Inspirations
 - [Globe Making (1955)](https://www.youtube.com/watch?v=4RWcWSN4HhI)
+- [Climatune](https://weather.withspotify.com/)
 - [Seeing Theory](http://students.brown.edu/seeing-theory/)
+- [Why Cities Are Where They Are](https://youtu.be/3PWWtqfwacQ)
 - [Paper Planes](https://paperplanes.world/)
 - [Humanity's cultural history captured in 5-minute film](http://www.nature.com/news/humanity-s-cultural-history-captured-in-5-minute-film-1.15650)
 - [New York transit (MTA): one day of activity](https://www.youtube.com/watch?v=4M0soXr2cHA)
 - [Boston public schools map switch aims to amend 500 years of distortion](https://www.theguardian.com/education/2017/mar/19/boston-public-schools-world-map-mercator-peters-projection)
 - [DIY Your Own City Symphony With This Database of Urban Noise](https://www.citylab.com/navigator/2017/02/stanza-artist-urban-symphony-city-noise/517536/?utm_source=fbb)
 - [The most Googled products in every country in one crazy map](http://www.businessinsider.com/google-cost-searches-2015-4?r=UK&IR=T)
-
+- [The death of interactive infographics?](https://medium.com/@dominikus/the-end-of-interactive-visualizations-52c585dcafcb#.eoxtfc9a7)
+- [How Uber Uses Psychological Tricks to Push Its Drivers’ Buttons](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html?hp&action=click&pgtype=Homepage&clickSource=image&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=0)
+- [LIVE Singapore!](https://www.youtube.com/watch?v=2aEPkyOBtRo)
+- [Visualizing Commute Times – Dev Curious](https://slack-redir.net/link?url=https%3A%2F%2Fblog.forrestthewoods.com%2Fvisualizing-commute-times-378009330ffa)
+- []
 
