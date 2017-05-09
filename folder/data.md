@@ -32,7 +32,7 @@ var svg = d3.select("body").append("svg")
 
 // Get the data
 d3.csv("data.csv", function(error, data) {
-  if (error) throw error;
+    if (error) throw error;
 
 // format the data
 data.forEach(function(d) {
@@ -41,7 +41,7 @@ data.forEach(function(d) {
     d.pop = +d["2015Pop"];
     d.city = d["City"];
     d.country = d["Country"];
-  });
+});
 
 // Add the scatterplot
 svg.selectAll("dot")
