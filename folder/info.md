@@ -32,13 +32,13 @@ Finally, there are more [virtual events](http://endangereddataweek.org/map/?sort
 Nice combination of visualizations, models and narrative to tell a story simply: [As Arctic Ice Vanishes, New Shipping Routes Open](https://www.nytimes.com/interactive/2017/05/03/science/earth/arctic-shipping.html?smid=pl-share&_r=0)
 
 ### D3 Resources
-[How to Resize an SVG When the Window is Resized in d3.js](https://chartio.com/resources/tutorials/how-to-resize-an-svg-when-the-window-is-resized-in-d3-js/)
-[Mapping Data with D3](http://duspviz.mit.edu/d3-workshop/mapping-data-with-d3/)
-[D3 tutodials on lynda](https://www.lynda.com/D3-js-tutorials/Welcome/504428/549380-4.html?autoplay=true)
-[How to get coordinates from a location name](http://stackoverflow.com/questions/17276036/how-to-get-coordinates-from-a-location-name)
-[PROGRESS BAR.JS](https://kimmobrunfeldt.github.io/progressbar.js/)
+- [How to Resize an SVG When the Window is Resized in d3.js](https://chartio.com/resources/tutorials/how-to-resize-an-svg-when-the-window-is-resized-in-d3-js/)
+- [Mapping Data with D3](http://duspviz.mit.edu/d3-workshop/mapping-data-with-d3/)
+- [D3 tutodials on lynda](https://www.lynda.com/D3-js-tutorials/Welcome/504428/549380-4.html?autoplay=true)
+- [How to get coordinates from a location name](http://stackoverflow.com/questions/17276036/how-to-get-coordinates-from-a-location-name)
+- [PROGRESS BAR.JS](https://kimmobrunfeldt.github.io/progressbar.js/)
 An software about making API calls called [Postman](https://www.getpostman.com/)
-[Giphy](https://giphy.com/) and Quicktime has a desktop app and hleps to record a video or gif on the screen.
+- [Giphy](https://giphy.com/) and Quicktime has a desktop app and hleps to record a video or gif on the screen.
 
 
 
