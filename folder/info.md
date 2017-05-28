@@ -29,7 +29,7 @@ Finally, there are more [virtual events](http://endangereddataweek.org/map/?sort
 [Broke a Glass? Someday You Might 3-D-Print a New One](https://www.nytimes.com/2017/04/19/science/3d-printer-glass.html?em_pos=small&emc=edit_ct_20170420&nl=technology&nl_art=4&nlid=6858502&ref=headline&te=1&_r=0)
 
 ### Perspectives about Data 
-Data Visualization and Elegant Storytelling: nice combination of visualizations, models and narrative to tell a story simply: [As Arctic Ice Vanishes, New Shipping Routes Open](https://www.nytimes.com/interactive/2017/05/03/science/earth/arctic-shipping.html?smid=pl-share&_r=0)
+Data visualization and elegant storytelling - nice combination of visualizations, models and narrative to tell a story simply: [As Arctic Ice Vanishes, New Shipping Routes Open](https://www.nytimes.com/interactive/2017/05/03/science/earth/arctic-shipping.html?smid=pl-share&_r=0)
 
 [If You Want to Be Creative, Don’t Be Data Driven](https://medium.com/microsoft-design/if-you-want-to-be-creative-dont-be-data-driven-55db74078eda)
 
