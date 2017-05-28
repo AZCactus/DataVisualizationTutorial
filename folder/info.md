@@ -30,6 +30,7 @@ Finally, there are more [virtual events](http://endangereddataweek.org/map/?sort
 
 ### Perspectives about Data 
 Data Visualization and Elegant Storytelling: nice combination of visualizations, models and narrative to tell a story simply: [As Arctic Ice Vanishes, New Shipping Routes Open](https://www.nytimes.com/interactive/2017/05/03/science/earth/arctic-shipping.html?smid=pl-share&_r=0)
+
 [If You Want to Be Creative, Don’t Be Data Driven](https://medium.com/microsoft-design/if-you-want-to-be-creative-dont-be-data-driven-55db74078eda)
 
 ### D3 Resources
